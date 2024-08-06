@@ -1,0 +1,58 @@
+body{
+  background-image: url(screen-background-6ka9m24qlyghsyuq.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  
+}
+  .header{
+    color: ghostwhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    text-align: center;
+    font-size: 35px;
+    border: 4px double darkolivegreen;   
+    border-radius: 10px;
+    background-image: url(pngtree-school-season-welcome-new-students-blackboard-hand-painted-image_12937.jpg);
+    background-size: 100%;
+  }
+  .header1{ 
+    height: 650px;
+    width: 700px;
+    font-size: 30px;
+    border: 4px double black;
+    border-radius: 10px;
+    background-color:lightblue;
+  }
+  .header2{
+    height: 650px;
+    width: 950px;
+    text-align: center;
+    border: 4px double black;  
+    border-radius: 10px;
+    background-color: ghostwhite;
+  }
+  .header3{ 
+    height: 650px;
+    width: 50px;
+   background-image: url(screen-background-6ka9m24qlyghsyuq.jpg);
+   opacity: 5%;
+  }
+  #disp{
+    display: flex;
+    justify-content: center;
+    
+  }
+  .button{
+    display: flex;
+    justify-content: space-evenly;
+}
+label{
+  font-size: 18px;
+  color: brown;
+}
+.form-control{
+  border: 2px solid lightcyan;
+  height: 35px;
+}

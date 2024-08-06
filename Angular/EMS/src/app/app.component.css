@@ -1,0 +1,11 @@
+label{
+    font-weight: bold;
+    color: brown;
+}
+body{
+    background-color: cornsilk;
+}
+p{
+    color: red;
+    font-size: 12px;
+}
